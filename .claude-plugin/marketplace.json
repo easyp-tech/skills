@@ -22,6 +22,14 @@
         "repo": "easyp-tech/protobuf-expert-skill"
       },
       "description": "Protocol Buffers expert with deep EasyP CLI knowledge. Helps write, review, and refactor .proto files, configure easyp.yaml, choose lint rules, manage proto dependencies, and debug lint errors or generation failures."
+    },
+    {
+      "name": "go-yamlvalidator",
+      "source": {
+        "source": "github",
+        "repo": "Yakwilik/go-yamlvalidator"
+      },
+      "description": "Integrate go-yamlvalidator in Go with native schemas or JSON Schema, source-aware diagnostics, custom validators and extensions, explicit resolvers, and executable recipes."
     }
   ]
 }
